@@ -1,1 +1,1 @@
-{"error":{"code":404,"message":"Not Found"}}
+{"incidents":[{"text":"First half","homeScore":0,"awayScore":1,"isLive":true,"time":45,"addedTime":999,"reversedPeriodTime":1,"incidentType":"period"},{"homeScore":0,"awayScore":1,"player":{"name":"Eros Mancuso","firstName":"Eros Mancuso","lastName":"","slug":"eros-mancuso","shortName":"E. Mancuso","position":"D","jerseyNumber":"14","userCount":174,"id":1116624},"id":181969821,"time":14,"timeSeconds":816,"isHome":false,"incidentClass":"regular","reversedPeriodTime":32,"reversedPeriodTimeSeconds":1884,"incidentType":"goal"}]}
