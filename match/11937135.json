@@ -1,1 +1,1 @@
-{"error":{"code":404,"message":"Not Found"}}
+{"incidents":[{"text":"First half","homeScore":0,"awayScore":1,"isLive":true,"time":45,"addedTime":999,"reversedPeriodTime":1,"incidentType":"period"},{"homeScore":0,"awayScore":1,"player":{"name":"Gonzalo Maroni","slug":"gonzalo-maroni","shortName":"G. Maroni","position":"M","jerseyNumber":"10","userCount":311,"id":840510},"id":182563498,"time":14,"timeSeconds":831,"isHome":false,"incidentClass":"regular","reversedPeriodTime":32,"reversedPeriodTimeSeconds":1869,"incidentType":"goal"}]}
