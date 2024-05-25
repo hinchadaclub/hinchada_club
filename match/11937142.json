@@ -1,1 +1,1 @@
-{"error":{"code":404,"message":"Not Found"}}
+{"incidents":[{"text":"First half","homeScore":0,"awayScore":0,"isLive":true,"time":45,"addedTime":999,"reversedPeriodTime":1,"incidentType":"period"},{"confirmed":false,"player":{"name":"José Sosa","slug":"jose-sosa","shortName":"J. Sosa","position":"M","jerseyNumber":"7","userCount":429,"id":22981,"fieldTranslations":{"nameTranslation":{"ar":"هوزيه ارنستو سوسا"},"shortNameTranslation":{"ar":"ه. ا. سوسا"}}},"isHome":false,"id":26087,"time":38,"incidentClass":"goalAwarded","reversedPeriodTime":8,"incidentType":"varDecision"}]}
