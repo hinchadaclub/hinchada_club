@@ -1,1 +1,1 @@
-{"error":{"code":404,"message":"Not Found"}}
+{"incidents":[{"text":"First half","homeScore":0,"awayScore":0,"isLive":true,"time":45,"addedTime":999,"reversedPeriodTime":1,"incidentType":"period"},{"player":{"name":"Eric Remedi","slug":"eric-remedi","shortName":"E. Remedi","position":"M","jerseyNumber":"5","userCount":89,"id":796096},"reason":"Foul","rescinded":false,"id":121361387,"time":19,"timeSeconds":1086,"isHome":false,"incidentClass":"yellow","reversedPeriodTime":27,"reversedPeriodTimeSeconds":1614,"incidentType":"card"}]}
