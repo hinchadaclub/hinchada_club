@@ -1,1 +1,1 @@
-{"error":{"code":404,"message":"Not Found"}}
+{"incidents":[{"text":"First half","homeScore":0,"awayScore":1,"isLive":true,"time":45,"addedTime":999,"reversedPeriodTime":1,"incidentType":"period"},{"from":"penalty","homeScore":0,"awayScore":1,"player":{"name":"Claudio Aquino","slug":"claudio-aquino","shortName":"C. Aquino","position":"M","jerseyNumber":"22","userCount":183,"id":340455},"id":182806669,"time":32,"timeSeconds":1892,"isHome":false,"incidentClass":"penalty","reversedPeriodTime":14,"reversedPeriodTimeSeconds":808,"incidentType":"goal"}]}
