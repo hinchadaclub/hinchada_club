@@ -1,1 +1,1 @@
-{"error":{"code":404,"message":"Not Found"}}
+{"incidents":[{"text":"First half","homeScore":0,"awayScore":0,"isLive":true,"time":45,"addedTime":999,"reversedPeriodTime":1,"incidentType":"period"},{"player":{"name":"Lucas Castro","slug":"lucas-castro","shortName":"L. Castro","position":"M","jerseyNumber":"19","userCount":151,"id":122711,"marketValueCurrency":"EUR","dateOfBirthTimestamp":608083200},"rescinded":false,"id":121439720,"time":15,"timeSeconds":890,"isHome":true,"incidentClass":"yellow","reversedPeriodTime":31,"reversedPeriodTimeSeconds":1810,"incidentType":"card"}]}
